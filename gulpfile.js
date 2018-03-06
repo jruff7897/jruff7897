@@ -10,6 +10,6 @@ gulp.task('sayHello', function(){
 
 gulp.task('calculations', function(){
 
-  let x = 7;
+  let x = 5;
   console.log("my lucky number is " + x);
 });
